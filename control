@@ -1,0 +1,9 @@
+Package: com.kindadev.googletranslatescheme
+Name: GoogleTranslateScheme
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Google Translate add to URL Scheme
+Maintainer: kinda
+Author: kinda
+Section: Tweaks
